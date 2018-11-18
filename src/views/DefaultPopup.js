@@ -320,7 +320,7 @@ const styles = StyleSheet.create({
   contentTextContainer: {
   },
   contentText: {
-    fontSize: 12,
+    fontSize: 15,
     lineHeight: 14,
     color: '#808080',
     marginTop: 5,
