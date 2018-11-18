@@ -251,6 +251,8 @@ const styles = StyleSheet.create({
     backgroundColor: 'white',  // TEMP
     borderRadius: 12,
     zIndex: 1000,
+    left: 8,
+    right: 8,
 
     // === Shadows ===
     // Android
